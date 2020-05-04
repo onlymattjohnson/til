@@ -14,7 +14,7 @@ Inspired by [Josh Branchaud](https://github.com/jbranchaud/til)
 ---
 
 ### Bash
-- Placeholder
+- [Change from sh to bash shell](bash/change-from-sh-to-bash.md)
 
 ## About
 
