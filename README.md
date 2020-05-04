@@ -20,8 +20,6 @@ This is inspired by [Josh Branchaud](https://github.com/jbranchaud/til) who sham
 
 ## License
 
-## License
-
 &copy; 2020 Matt Johnson
 
 This repository is licensed under the GNU General Public License. See `LICENSE` for details.
