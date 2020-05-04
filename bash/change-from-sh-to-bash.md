@@ -11,9 +11,9 @@ For a regular user, change the default login shell using [`chsh`](https://linux.
 chsh -s /bin/bash
 ```
 
-Alternatively, change the default login shell using `usermod` and replacing _<username>_ 
+Alternatively, change the default login shell using `usermod` and replacing _{username}_ 
 with the user you want to change this for:
 
 ```bash
-sudo usermod -s /bin/bash <username>
+sudo usermod -s /bin/bash {username}
 ```
