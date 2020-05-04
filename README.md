@@ -8,11 +8,15 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Categories
 
 * [Bash](#bash)
+* [Python](#python)
 
 ---
 
 ### Bash
 - [Change from sh to bash shell](bash/change-from-sh-to-bash.md)
+
+### Python
+- [Call function by string value](python/call-function-by-string-value.md)
 
 ## About
 
