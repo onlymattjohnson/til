@@ -3,8 +3,6 @@
 
 A repository of small things that I learned. This is kept as a way to keep track of small snippets of knowledge that I want to remember for later.
 
-Inspired by [Josh Branchaud](https://github.com/jbranchaud/til)
-
 ---
 
 ### Categories
