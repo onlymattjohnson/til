@@ -14,6 +14,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 
 ### Bash
 - [Change from sh to bash shell](bash/change-from-sh-to-bash.md)
+- [Find file containing text](bash/find-file-containing-text.md)
 
 ### Python
 - [Call function by string value](python/call-function-by-string-value.md)
