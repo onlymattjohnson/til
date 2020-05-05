@@ -19,7 +19,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 - [Call function by string value](python/call-function-by-string-value.md)
 
 ### Wordpress
-- [(Copy parent settings to child theme)](wordpress/copy-parent-settings-to-child-theme.md)
+- [Copy parent settings to child theme](wordpress/copy-parent-settings-to-child-theme.md)
 
 ## About
 
