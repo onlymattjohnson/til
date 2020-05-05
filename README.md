@@ -9,7 +9,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 
 * [Bash](#bash)
 * [Python](#python)
-* [Wordpress](#wordpress)
+* [WordPress](#wordpress)
 ---
 
 ### Bash
@@ -18,7 +18,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Python
 - [Call function by string value](python/call-function-by-string-value.md)
 
-### Wordpress
+### WordPress
 - [Copy parent settings to child theme](wordpress/copy-parent-settings-to-child-theme.md)
 
 ## About
