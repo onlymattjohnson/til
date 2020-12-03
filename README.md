@@ -9,6 +9,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 
 * [Bash](#bash)
 * [Python](#python)
+* [WebFOCUS](#webfocus)
 * [WordPress](#wordpress)
 ---
 
