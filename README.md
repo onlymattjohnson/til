@@ -19,6 +19,9 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Python
 - [Call function by string value](python/call-function-by-string-value.md)
 
+### WebFOCUS 
+- [Get table definitions](webfocus/get-table-definitions.md)
+
 ### WordPress
 - [Copy parent settings to child theme](wordpress/copy-parent-settings-to-child-theme.md)
 
