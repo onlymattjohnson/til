@@ -8,6 +8,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Categories
 
 * [Bash](#bash)
+* [Postgres](#postgres)
 * [Python](#python)
 * [WebFOCUS](#webfocus)
 * [WordPress](#wordpress)
@@ -16,6 +17,9 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Bash
 - [Change from sh to bash shell](bash/change-from-sh-to-bash.md)
 - [Find file containing text](bash/find-file-containing-text.md)
+
+### Postgres
+- [Fix no schema error](postgres/fix-no-schema-error.md)
 
 ### Python
 - [Call function by string value](python/call-function-by-string-value.md)
