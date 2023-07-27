@@ -8,6 +8,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Categories
 
 * [Bash](#bash)
+* [Git](#git)
 * [Postgres](#postgres)
 * [Python](#python)
 * [WebFOCUS](#webfocus)
@@ -17,6 +18,9 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Bash
 - [Change from sh to bash shell](bash/change-from-sh-to-bash.md)
 - [Find file containing text](bash/find-file-containing-text.md)
+
+### Git
+- [Remove already committed gitignore files](git/remove-already-commited-from-gitignore.md)
 
 ### Postgres
 - [Fix no schema error](postgres/fix-no-schema-error.md)
