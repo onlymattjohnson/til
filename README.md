@@ -9,6 +9,7 @@ A repository of small things that I learned. This is kept as a way to keep track
 
 * [Bash](#bash)
 * [Git](#git)
+* [Obsidian](#obsidian)
 * [Postgres](#postgres)
 * [Python](#python)
 * [WebFOCUS](#webfocus)
