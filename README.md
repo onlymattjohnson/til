@@ -22,6 +22,9 @@ A repository of small things that I learned. This is kept as a way to keep track
 ### Git
 - [Remove already committed gitignore files](git/remove-already-commited-from-gitignore.md)
 
+### Obsidian
+- [Sort Dataview Tables](obsidian/dataview-sort.md)
+
 ### Postgres
 - [Fix no schema error](postgres/fix-no-schema-error.md)
 
